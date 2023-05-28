@@ -1,0 +1,63 @@
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\App.g.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+C:\Users\zsolti\Downloads\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+C:\Users\zsolti\Downloads\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+C:\Users\zsolti\Downloads\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+C:\Users\zsolti\Downloads\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+C:\Users\zsolti\Downloads\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\zsolti\Downloads\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Diana\Desktop\Curs C#\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
